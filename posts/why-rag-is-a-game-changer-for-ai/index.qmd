@@ -1,5 +1,5 @@
 ---
-title: "what is RAG (Retrieval-Augmented Generation) and how it becomes a Game-Changer for AI Applications"
+title: "What is RAG (Retrieval-Augmented Generation) and how it becomes a Game-Changer for AI Applications"
 author: "Zanan Pech"
 date: "2025-01-18"
 categories: [news, AI]
